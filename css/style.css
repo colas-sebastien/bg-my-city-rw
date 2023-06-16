@@ -1,0 +1,61 @@
+.map table {
+    border-collapse: collapse;
+    background-color: white;
+    border: 2px solid;
+    border-color: gray;    
+}
+
+.map td {
+    width:  40px;
+    height: 40px;
+    padding: 0px; 
+    margin:  0px; 
+}
+
+.map img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.tree {
+    background: url(../img/tree.png) center no-repeat;  
+    background-size: contain;    
+}
+
+.trees {
+    background: url(../img/trees.png) center no-repeat;  
+    background-size: contain;    
+}
+
+.rocks {
+    background: url(../img/rocks.png) center no-repeat;  
+    background-size: contain;    
+}
+
+.well {
+    background: url(../img/well.png) center no-repeat;  
+    background-size: contain;    
+}
+
+.church {
+    background: url(../img/church.png) center no-repeat;  
+    background-size: contain;    
+}
+
+.water {
+    background: url(../img/water.png) center no-repeat;  
+    background-size: contain;    
+}
+
+.forest {
+    background-color: darkgreen;
+}
+
+.montain {
+    background-color: lightgray
+}
+
+.box {
+    background: url(../img/box.png) center no-repeat;  
+    background-size: contain;    
+}
