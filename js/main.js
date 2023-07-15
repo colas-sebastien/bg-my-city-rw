@@ -9,12 +9,27 @@ function display(map)
             html+="<td  class='";
             switch (map.data[y][x])
             {
+                case "B":
+                    html+="bandit";
+                    break;                
                 case "C":
                     html+="church";
                     break;                
                 case "F":
                     html+="forest";
+                    break;                    
+                case "G":
+                    html+="grass";
                     break;
+                case "H":
+                    html+="gold";
+                    break;
+                case "I":
+                    html+="fort";
+                    break;                                                                   
+                case "J":
+                    html+="lumberjack";
+                    break;                    
                 case "M":
                     html+="montain";
                     break;                    

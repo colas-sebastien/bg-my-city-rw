@@ -42,10 +42,36 @@
     background-size: contain;    
 }
 
+.bandit {
+    background: url(../img/bandit.png) center no-repeat;  
+    background-size: contain;    
+}
+
+.fort {
+    background: url(../img/fort.png) center no-repeat;  
+    background-size: contain;    
+}
+
 .water {
     background: url(../img/water.png) center no-repeat;  
     background-size: contain;    
 }
+
+.lumberjack {
+    background: url(../img/lumberjack.png) center no-repeat;  
+    background-size: contain;    
+}
+
+.grass {
+    background: url(../img/grass.png) center no-repeat;  
+    background-size: contain;    
+}
+
+.gold {
+    background: url(../img/gold.png) center no-repeat;  
+    background-size: contain;    
+}
+
 
 .forest {
     background-color: darkgreen;
